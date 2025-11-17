@@ -49,7 +49,7 @@ O foco da análise foi entender o que essas 40 transações tinham em comum, cri
 
 ---
 
-## 🎯 Resultados: A "Persona" da Fraude
+## 🎯 Resultados: O Perfil da Fraude
 
 Ao cruzar as 40 anomalias encontradas pelo DBSCAN com os dados originais, foi possível traçar um perfil claro da transação suspeita:
 
