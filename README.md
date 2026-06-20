@@ -39,7 +39,8 @@ Para isso, dois parâmetros-chave foram definidos:
 1.  **`min_samples` (44):** Definido pela regra de `2 * número_de_features`, resultando em 44.
 2.  **`eps` (1.5):** O parâmetro de distância foi estimado usando o **K-distance Elbow Plot**. O gráfico mostrou que o "ponto de inflexão" (cotovelo), onde a distância dos vizinhos começa a disparar, estava em aproximadamente 1.5.
 
-*(**Dica:** Adicione o print do seu gráfico K-distance aqui no GitHub para ilustrar)*
+<img width="846" height="548" alt="image" src="https://github.com/user-attachments/assets/7ef48094-2f7d-4b43-a629-09ab519968ae" />
+
 
 ### 3. Análise dos Resultados
 
