@@ -48,6 +48,8 @@ O algoritmo foi executado e identificou **40 transações como anomalias** (clas
 
 O foco da análise foi entender o que essas 40 transações tinham em comum, criando a **"Persona da Anomalia"**.
 
+<img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/feb613b1-5793-442d-bc5d-24ac409f84de" />
+
 ---
 
 ## 🎯 Resultados: O Perfil da Fraude
