@@ -73,7 +73,7 @@ O DBSCAN provou ser eficaz para isolar transações suspeitas sem supervisão pr
 * **Python 3**
 * **Pandas:** Para manipulação e tratamento dos dados.
 * **Scikit-learn (sklearn):** Para `StandardScaler`, `NearestNeighbors` e `DBSCAN`.
-* **Matplotlib:** Para a visualização do K-distance plot.
+* **Matplotlib:** Para a visualização do K-distance plot e do perfil comparativo das anomalias.
 * **KaggleHub:** Para download do dataset.
 * **Google Colab:** Como ambiente de desenvolvimento.
 
